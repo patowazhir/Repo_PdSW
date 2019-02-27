@@ -1,0 +1,14 @@
+Historias detalladas de usuario por cada actividad (Pasadas, Actuales y Futuras)
+Historia de usuario de las actividades conectadas
+Minuta de Revisión de Sprint (2)
+Asignar puntos de historia de actividades
+Asignar roles para Kanban
+Asignar roles de equipo
+
+Documentación Act 4
+
+Progra Act 5
+Doc Act 5
+
+Progra Act 6
+Doc Act 6
